@@ -6,4 +6,3 @@ I'm a programmer and technology enthusiast. I'm looking for projects to post and
 - 🖥️ **Arch Linux** user;
 - 🎹 Interested in **piano**.
 
-Talk to me on [Discord](https://discord.com/users/1075680645528965200).
