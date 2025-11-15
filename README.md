@@ -4,10 +4,13 @@ Gabriel Caelestis, tenho 23 anos, casado, programador por hobby, atuo no mercado
 - 📖 Estou estudando **Sumério Clássico**, **Física** e **Emacs-Lisp**;
 - 🖥️ Sou usuário de **Arch Linux I3wm** e **GNU Emacs**;
 - 🔭 Entusiasta em **Astronomia**, **História**, **Inteligência Artificial** e **Piano**.
-## Alfheim
-Uma comunidade com poucos membros e um grande foco na interação social entre os membros. Somos bem liberais com assuntos, mas nosso foco não é limitado na tecnologia. Nosso ambiente é muito familiar, mas temos muitas brincadeiras que podem ser desconfortável se não forem acostumados.
-- [Discord](https://discord.gg/qTgfcN6ct7)
-- [GitHub](https://github.com/alfheim-devs)
+## Comunidade 8bitzone
+Uma comunidade mais séria e focada no contato, networking e projetos. Nosso foco é a interação entre membros, troca de experiência e propagação de projetos individuais ou colaborativos, e modelos de currículos e outros para nossos membros. Atualmente estamos em construção e ano que vem estaremos postando projetos colaborativos.
+- [Discord](https://discord.gg/aqNVrABPeW)
+- [Github](https://github.com/8bitzone)
+## HellZ
+Uma comunidade de amigos (com nome polêmico) com o foco em interação entre amigos e pessoas próximas. Jogamos, zoamos e temos um ambiente extremamente familiar. Somente por aprovação de entrevista.
+- [Discord](https://discord.gg/Ek4mXvPct3)
 ## Equipe Aeternus
 Minha equipe de aprendizado focada em projetos privados e pesquisas em diversas áreas de entusiasmo. Não somos abertos e não estamos recrutando neste momento, porém, interagimos dentro da comunidade da Alfheim e criamos um programa de estudo dentro da mesma. Somos um grupo bem reservado, mas muito receptivo em compartilhar conhecimento e aprendizado com todos os membros que nos procuram.
 - [GitHub](https://github.com/aeternustm)
