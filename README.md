@@ -1,5 +1,5 @@
 # Sobre Mim
-Gabriel Caelestis, tenho 23 anos, casado, programador por hobby, atuo no mercado da **Segurança Ofensiva** e tenho entusiasmo em um monte de coisa diferente. Sou dono da Alfheim e líder na Aeternus, com poucos projetos postados. Não utilizo muito o GitHub de forma pública, e quase todas minhas comunicações são pelo Discord.
+Gabriel Caelestis, tenho 23 anos, casado, programador por hobby, atuo no mercado da **Segurança Ofensiva** e tenho entusiasmo em um monte de coisa diferente. Sou dono da HellZ, administrador na 8bitzone e líder na Aeternus, com poucos projetos postados. Não utilizo muito o GitHub de forma pública, e quase todas minhas comunicações são pelo Discord.
 - 🧠 Meus focos são **Segurança Ofensiva**, **Inteligência Artificial** e as linguagens **C** e **Assembly**;
 - 📖 Estou estudando **Sumério Clássico**, **Física** e **Emacs-Lisp**;
 - 🖥️ Sou usuário de **Arch Linux I3wm** e **GNU Emacs**;
