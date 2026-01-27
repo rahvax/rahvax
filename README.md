@@ -6,4 +6,4 @@ Gabriel Caelestis, tenho 24 anos, casado, programador por hobby, atuo no mercado
 - 🔭 Entusiasta em **Astronomia**, **História**, **Inteligência Artificial** e **Piano**.
 ## Contato
 - 📧 gabriel@caelestis.one
-
+- ☎️ (11) 97322-8505
