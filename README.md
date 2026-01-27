@@ -6,4 +6,3 @@ Gabriel Caelestis, tenho 24 anos, casado, programador por hobby, profissional de
 - 📂 Ex-diretor de Segurança da Informação da **Zanc**, ex-Auditor Chefe na **OIW**; indicações pela **Desec Security**, **Globo Projac/Estúdios**, **Santander** e **Bradesco**.
 ## Contato
 - 📧 gabriel@caelestis.one
-- ☎️ (11) 97322-8505
