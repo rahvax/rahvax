@@ -3,5 +3,3 @@ Tenho 24 anos, atuo como Hacker Ético com especialização em Segurança Ofensi
 - 🧠 Meus focos são **Segurança Ofensiva**, **Inteligência Artificial** e as linguagens **C** e **Assembly**;
 - 📖 Estou estudando **Sumério Clássico** e **Engenharia Mecânica**;
 - 📑 Certificado como **OSCP**, **OSEP**, **DCPT** e **C|EH**.
-## Contato
-- 📧 gabriel@caelestis.one
