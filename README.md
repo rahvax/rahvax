@@ -5,6 +5,6 @@ Tenho 24 anos e sou usuário de Linux veterano. Sou programador por hobby e entu
 - 🖥️ Usuário de **Arch Linux I3wm** e do editor **Emacs**;
 
 ## Contatos
-- 📞 (11) 9 
+- 📞 (11) 9 97322-8505
 - 📧 [gabriel@caelestis.one](mailto:gabriel@caelestis.one)
 - 🔗 [Discord](https://discord.com/users/314858301726785546) | [X](https://www.x.com/rahvax) | [Telegram](https://www.t.me/rahvax)
