@@ -3,7 +3,7 @@ Me chamo Gabriel Caelestis, tenho 24 anos e sou profissional de Segurança Ofens
 ## Capacidades  (𒉆𒆬𒍪)
 - Desenvolvimento embarcado (C) e de softwares funcionais (C++);
 - Teste de intrusão em ambientes corporativos;
-- SQL e uso PostgreeSQL, MongoDB, Prisma.io e MariaDB;
+- SQL e uso de PostgreeSQL, MongoDB, Prisma.io e MariaDB;
 - Uso e hardening em sistemas Unix/Linux;
 - Desenvolvimento e treinamento de redes neurais (Python);
 ## Interesses   (𒊕𒆗)
