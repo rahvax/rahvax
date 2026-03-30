@@ -11,7 +11,7 @@ Me chamo Gabriel Caelestis, tenho **24 anos** e sou profissional de Segurança O
 <div align="center">
 
   𒈗 𒀀𒉌𒃲𒆠𒀀 𒀝 </br>
-  <sup>Lugal Angakia.ak</sup> </br>
+  <sup>Lugal Angalkia.ak</sup> </br>
   𒉆𒈗𒈬 𒁕𒊏𒀀 𒀀𒈾 </br>
   <sup>namlugal.ĝu¹⁰ dari.am</sup> </br>
   𒌋𒈾 𒀀𒈾 </br>
