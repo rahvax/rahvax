@@ -15,6 +15,6 @@ Me chamo Gabriel Caelestis, tenho **24 anos** e sou profissional de Segurança O
   𒉆𒈗𒈬 𒁕𒊏𒀀 𒀀𒈾 </br>
   <sup>namlugal.ĝu¹⁰ dari.am</sup> </br>
   𒌋𒈾 𒀀𒈾 </br>
-  <sup>ùna.am</sup> </br>
+  <sup>ùma.am</sup> </br>
 
 </div>
