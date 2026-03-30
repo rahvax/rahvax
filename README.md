@@ -7,3 +7,6 @@ Me chamo Gabriel Caelestis, tenho **24 anos** e sou profissional de Segurança O
 - Uso e **hardening** em sistemas `Unix/Linux`;
 - Desenvolvimento e treinamento de redes neurais `(Python)`;
 
+<div align="center">
+  𒈗𒀭𒃲𒆠𒀝
+</div>
