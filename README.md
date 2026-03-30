@@ -6,11 +6,4 @@ Me chamo Gabriel Caelestis, tenho **24 anos** e sou profissional de Segurança O
 - `SQL` e uso de `PostgreeSQL`, `MongoDB`, `Prisma.io` e `MariaDB`;
 - Uso e **hardening** em sistemas `Unix/Linux`;
 - Desenvolvimento e treinamento de redes neurais `(Python)`;
-## Interesses <sup> 𒊕𒆗</sup>
-- Exploração de binário;
-- Desenvolvimento de malware;
-- Inteligência Artificial;
-- Blockchain;
-- Astronomia e Física;
-- História suméria e acadiana (e seus idiomas);
-- Engenharia mecânica;
+
