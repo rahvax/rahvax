@@ -1,12 +1,14 @@
 # Apresentação <sup> 𒉎𒈬</sup>
-Me chamo Gabriel Caelestis, tenho **24 anos** e sou profissional de Segurança Ofensiva com experiência em teste de intrusão `(PENTEST)`. Sou **desenvolvedor junior** em `C/C++` com pouca experiência de mercado, mas com **quinze anos** de uso prático. Atualmente estou me aperfeiçoando e evoluindo para o mercado de desenvolvimento de modelos de IA.
+Me chamo Gabriel Caelestis, tenho 24 anos e sou pesquisador em segurança ofensiva com experiência em teste de intrusão (PENTEST). Sou desenvolvedor em C/C++ e, atualmente, estou me profissionalizando para o mercado de desenvolvimento de IA. 
+
+Além de desenvolvedor e pesquisador de segurança ofensiva, também tenho grande entusiasmo por engenharia mecânica, história e idioma sumério, cuneiforme, física e astronomia - sendo hobbies meus que uso em grande parte do meu tempo livre.
 ## Capacidades <sup> 𒉆𒆬𒍪</sup>
 - Desenvolvimento embarcado `(C)` e de softwares funcionais `(C++)`;
 - Teste de intrusão em ambientes corporativos;
-- `SQL` e uso de `PostgreeSQL`, `MongoDB`, `Prisma.io` e `MariaDB`;
+- `SQL` e uso de `PostgreSQL`, `MongoDB`, `Prisma.io` e `MariaDB`;
 - Uso e **hardening** em sistemas `Unix/Linux`;
 - Desenvolvimento e treinamento de redes neurais `(Python)`;
-
+  
 # 
 <div align="center">
 
