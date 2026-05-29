@@ -2,6 +2,8 @@
 Me chamo Gabriel Caelestis, tenho 24 anos e sou pesquisador em segurança ofensiva, com experiência em freelances de teste de intrusão (PENTEST). Sou desenvolvedor em C/C++ e, atualmente, estou me profissionalizando para o mercado de desenvolvimento de IA. 
 
 Além de desenvolvedor e pesquisador de segurança ofensiva, também tenho grande entusiasmo por engenharia mecânica, história e idioma sumério, cuneiforme, física e astronomia - sendo hobbies meus que uso em grande parte do meu tempo livre.
+
+Meu grupo desenvolve em Forge (um Github privado e self-hosted), então não posto tanto aqui.
 ## Capacidades <sup> 𒉆𒆬𒍪</sup>
 - Desenvolvimento embarcado `(C)` e de softwares funcionais `(C++)`;
 - Teste de intrusão em ambientes corporativos;
