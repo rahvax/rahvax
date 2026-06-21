@@ -1,5 +1,5 @@
 # Aviso
-Meu grupo desenvolve em Forgejo (um Github privado e self-hosted), então não posto tanto aqui. Atualmente estou focando em projetos totalmente por lá, e é até gostei mais do que o Github. Então no futuro vou apenas espelhar projetos do Forgejo aqui.
+Estou usando [Forgejo](https://forgejo.org/) para desenvolver, logo, a maioria - se não todos - dos meus repositórios vão utilizar o método `Push Mirror`. Isso significa, que meu ambiente de desenvolvimento atual não é mais no Github, logo, é apenas um perfil para receber projetos que considero público ao Github.
 
 # Apresentação <sup> 𒉎𒈬</sup>
 Me chamo Gabriel Caelestis, tenho 24 anos e sou pesquisador em segurança ofensiva, com experiência em freelances de teste de intrusão (PENTEST). Sou desenvolvedor em C/C++ e, atualmente, estou me profissionalizando para o mercado de desenvolvimento de IA. 
